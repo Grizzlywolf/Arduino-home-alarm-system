@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "65543855217",
+    "firebase_url": "https://alarmni-sustav.firebaseio.com",
+    "project_id": "alarmni-sustav",
+    "storage_bucket": "alarmni-sustav.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65543855217:android:1cd415f9004d7cd5",
+        "android_client_info": {
+          "package_name": "com.example.firebasenovaimplementacija"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65543855217-k3jl973grfeb03fv6m46tjqifpqf5m99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByhY_cfmBSXt2uvooEolMlwZG3hNB-UCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65543855217-k3jl973grfeb03fv6m46tjqifpqf5m99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Alarmni Sustav</string>
+    <string name="off">Off</string>
+    <string name="on">On</string>
+    <string name="smoke_sensor">Dimni senzor:</string>
+    <string name="motion_sensor">Senzor pokreta:</string>
+    <string name="detsmoke">Detektiran dim!</string>
+    <string name="detmove">Detektiran pokret!</string>
+    <string name="desc1">Vatra</string>
+    <string name="desc2">Provala</string>
+</resources>
